@@ -1,0 +1,13 @@
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Visual Studio\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\CallHistoryPage.xaml.g.cs
