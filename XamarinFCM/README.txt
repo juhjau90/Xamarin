@@ -14,7 +14,7 @@ Thus, if you wish to download and try this material yourself, perform the follow
 1. Create you own Firebase Cloud Messaging project at Firebase Console and save the resulting "google-services.json" 
    file to your project root
    
-2. Include the file to your project and remember to set it'save build action to "GoogleServicesJson".
+2. Include the file to your project and remember to set it's build action to "GoogleServicesJson".
 
 3. Within "AndroidManifest.xml" <intent-filter> section, change the name in <category> to ${applicationID}.
    
